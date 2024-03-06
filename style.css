@@ -1,0 +1,36 @@
+.correo
+{text-align: center; border-radius: 4px;width: 240px;height: 30px; text-align: left; border-color: grey;margin: 3px; }
+
+
+.button{background-color:rgb(6, 143, 255); color: white; height: 30px; border-radius: 7px; width: 248px;}
+
+.p1{color:rgb(33, 159, 218);text-align: center;}
+
+.sesion{background-color: deepskyblue; color: white; border-radius:7px; height: 30px; width: 248px;border-color: white}
+
+*{text-align: center; font-family:Arial, Helvetica, sans-serif; font-size: 15px;}
+
+.Registrate{color: rgb(33, 159, 218);}
+
+.ig{height: 95px;}
+
+.grid{display: grid; grid-template-columns: 50% 50%;}
+.grid div{background-color: aqua; padding: 1em;}
+.grid div:hover{border: 1px solid green;}
+
+
+.olvidaste-contraseña{display: grid;}
+.olvidaste-contraseña{grid-template-columns: 75.5% 24.5%; justify-items: right;}
+
+
+.menú-ing{position: absolute; bottom: 0px;}
+.menú-ig {width: 490px;}
+
+
+@media (max-width:320px ) {
+    *{background-color: white;}
+}
+
+@media (min-width:900px){
+    {}
+}
