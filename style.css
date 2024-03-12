@@ -4,7 +4,7 @@
 
 .button{background-color:rgb(6, 143, 255); color: white; height: 30px; border-radius: 7px; width: 248px;}
 
-.p1{color:rgb(33, 159, 218);text-align: center;}
+.p1{color:rgb(33, 159, 218);text-align: right;}
 
 .sesion{background-color: deepskyblue; color: white; border-radius:7px; height: 30px; width: 248px;border-color: white}
 
@@ -32,5 +32,5 @@
 }
 
 @media (min-width:900px){
-    *{background-color: aqua;}
+    {}
 }
