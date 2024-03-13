@@ -30,7 +30,8 @@
 .olvidaste-password{position: absolute; right: 0%;}
 
 @media (max-width:320px ) {
-    *{background-color: rgb(255, 0, 0);}
+    .textos{position: relative; height: 50%; width: 65%; background-color: green;text-align: end;}
+    .olvidaste-password{position: absolute; right: 0%;}
 }
 
 @media (min-width:900px){
